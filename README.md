@@ -24,4 +24,4 @@ These are all the framework and libraries that has been used to build this proje
  
 ## Functionalities Implemented
 
-It is just a front-end user interface built in HTML and CSS.
+It is a front-end user interface built in HTML and CSS.
