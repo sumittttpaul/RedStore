@@ -2,6 +2,8 @@
 
 Hello, I am Sumeet Kumar Paul and here is Sports Items Ecommerce Store, so let's get started.
 
+Watch the video to learn about all the features of this project: [video/ultimatehub](https://drive.google.com/file/d/1DctLQ86EHMqI-swHYGsF6GfNSeUO2htt/view?usp=sharing)
+
 ## Getting Started
 
 This Photography Services Store store contains following sections :-
